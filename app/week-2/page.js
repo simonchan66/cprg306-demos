@@ -2,7 +2,7 @@ import Heading from './heading';
 
 export default function Page() {
     return (
-<main className="text-4xl">
+<main>
 <Heading />
 Hello this is another page
 </main>

@@ -1,7 +1,8 @@
 export default function Page() {
     return (
-        <main>
-            <h1>CPRG heading</h1>
-        </main>
+<main className='text-4xl'>
+            CPRG heading
+            </main>
+
     );
 }
